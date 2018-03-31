@@ -24,12 +24,14 @@
         android:id="@+id/findSynonymButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Find Synonym"/>
+        android:onClick="onButtonClick"
+        android:text="Find Synonym" />
 
     <Button
         android:id="@+id/enterValuesButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="onButtonClick"
         android:text="Enter Values" />
 
 </LinearLayout>
