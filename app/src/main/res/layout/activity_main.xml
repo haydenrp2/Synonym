@@ -11,33 +11,25 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Find synonym:"
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="85dp" />
+        android:text="Find synonym:"/>
 
     <EditText
         android:id="@+id/searchSynonym"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="113dp" />
+        android:inputType="textPersonName"/>
 
     <Button
         android:id="@+id/findSynonymButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Find Synonym"
-        tools:layout_editor_absoluteX="130dp"
-        tools:layout_editor_absoluteY="159dp" />
+        android:text="Find Synonym"/>
 
     <Button
         android:id="@+id/enterValuesButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enter Values"
-        tools:layout_editor_absoluteX="131dp"
-        tools:layout_editor_absoluteY="314dp" />
+        android:text="Enter Values" />
 
 </LinearLayout>
