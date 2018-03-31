@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".EnterValues"></activity>
+        <activity android:name=".Results"></activity>
     </application>
 
 </manifest>
